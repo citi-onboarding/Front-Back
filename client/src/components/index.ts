@@ -1,3 +1,3 @@
-import { BlueButton } from './Button';
+import  Card from './Card';
 
-export { BlueButton };
+export { Card };
